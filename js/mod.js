@@ -1,8 +1,8 @@
 let modInfo = {
 	name: "The Murder Tree",
 	id: "LukeLee",
-	author: "nobody",
-	pointsName: "points",
+	author: "Luke Lee",
+	pointsName: "Deaths",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
